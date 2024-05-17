@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thrisha - Software Engineer</title>
+    <style>
+        /* CSS for styling */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        .feature {
+            display: inline-block;
+            width: 30%;
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .skills {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .contact-info {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Thrisha</h1>
+        <h2>Software Engineer</h2>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Projects</a>
+        <a href="#">Contact</a>
+    </nav>
+    <section>
+        <h2>About Me</h2>
+        <p>I'm a passionate software developer with expertise in various programming languages and technologies.</p>
+        <p>I love creating innovative solutions to real-world problems</p>
+    </section>
+    <section class="skills">
+        <h2>Skills</h2>
+        <p>Java, Python, HTML, CSS, JavaScript, SQL, C,C++</p>
+    </section>
+    <section class="contact-info">
+        <h2>Contact Information</h2>
+        <p>Email: thrisha123@gmail.com</p>
+        <p>Phone: +9841458723</p>
